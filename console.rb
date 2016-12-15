@@ -7,7 +7,7 @@ require_relative 'db/connection'
 
 #load models
 require_relative 'models/pokemon'
-require_relative 'models/trainers'
+require_relative 'models/trainer'
 
 binding.pry
 
